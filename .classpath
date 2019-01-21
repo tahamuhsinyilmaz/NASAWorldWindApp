@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/mac/Desktop/worldwind-v2/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/Desktop/worldwind-v2/gdal.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/Desktop/worldwind-v2/gluegen-rt-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/Desktop/worldwind-v2/jogl-all-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/Desktop/worldwind-v2/jogl-all.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/Desktop/worldwind-v2/vpf-symbols.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/Desktop/worldwind-v2/worldwind.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/Desktop/worldwind-v2/worldwindx.jar"/>
+	<classpathentry kind="lib" path="/Users/mac/Desktop/worldwind-2.0.0-https-patch.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
